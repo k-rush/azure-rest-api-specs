@@ -26,6 +26,9 @@
           "localTimeStamp": {
             "format": "TimeSpan",
             "propertyName": "someEventPropertyName"
+          },
+          "ingressStartAt": {
+            "type": "EarliestAvailable"
           }
         }
       }
