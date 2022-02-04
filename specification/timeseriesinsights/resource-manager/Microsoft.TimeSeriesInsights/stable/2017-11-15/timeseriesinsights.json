@@ -36,6 +36,7 @@
   "paths": {
     "/providers/Microsoft.TimeSeriesInsights/operations": {
       "get": {
+        "deprecated": true,
         "tags": [
           "Operations"
         ],
@@ -66,6 +67,7 @@
     },
     "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.TimeSeriesInsights/environments/{environmentName}": {
       "put": {
+        "deprecated": true,
         "tags": [
           "Environments"
         ],
@@ -132,6 +134,7 @@
         }
       },
       "get": {
+        "deprecated": true,
         "tags": [
           "Environments"
         ],
@@ -175,6 +178,7 @@
         }
       },
       "patch": {
+        "deprecated": true,
         "tags": [
           "Environments"
         ],
@@ -225,6 +229,7 @@
         }
       },
       "delete": {
+        "deprecated": true,
         "tags": [
           "Environments"
         ],
@@ -267,6 +272,7 @@
     },
     "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.TimeSeriesInsights/environments": {
       "get": {
+        "deprecated": true,
         "tags": [
           "Environments"
         ],
@@ -306,6 +312,7 @@
     },
     "/subscriptions/{subscriptionId}/providers/Microsoft.TimeSeriesInsights/environments": {
       "get": {
+        "deprecated": true,
         "tags": [
           "Environments"
         ],
@@ -342,6 +349,7 @@
     },
     "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.TimeSeriesInsights/environments/{environmentName}/eventSources/{eventSourceName}": {
       "put": {
+        "deprecated": true,
         "tags": [
           "EventSources"
         ],
@@ -407,6 +415,7 @@
         }
       },
       "get": {
+        "deprecated": true,
         "tags": [
           "EventSources"
         ],
@@ -450,6 +459,7 @@
         }
       },
       "patch": {
+        "deprecated": true,
         "tags": [
           "EventSources"
         ],
@@ -502,6 +512,7 @@
         }
       },
       "delete": {
+        "deprecated": true,
         "tags": [
           "EventSources"
         ],
@@ -547,6 +558,7 @@
     },
     "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.TimeSeriesInsights/environments/{environmentName}/eventSources": {
       "get": {
+        "deprecated": true,
         "tags": [
           "EventSources"
         ],
@@ -589,6 +601,7 @@
     },
     "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.TimeSeriesInsights/environments/{environmentName}/referenceDataSets/{referenceDataSetName}": {
       "put": {
+        "deprecated": true,
         "tags": [
           "ReferenceDataSets"
         ],
@@ -654,6 +667,7 @@
         }
       },
       "get": {
+        "deprecated": true,
         "tags": [
           "ReferenceDataSets"
         ],
@@ -697,6 +711,7 @@
         }
       },
       "patch": {
+        "deprecated": true,
         "tags": [
           "ReferenceDataSets"
         ],
@@ -749,6 +764,7 @@
         }
       },
       "delete": {
+        "deprecated": true,
         "tags": [
           "ReferenceDataSets"
         ],
@@ -794,6 +810,7 @@
     },
     "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.TimeSeriesInsights/environments/{environmentName}/referenceDataSets": {
       "get": {
+        "deprecated": true,
         "tags": [
           "ReferenceDataSets"
         ],
@@ -836,6 +853,7 @@
     },
     "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.TimeSeriesInsights/environments/{environmentName}/accessPolicies/{accessPolicyName}": {
       "put": {
+        "deprecated": true,
         "tags": [
           "AccessPolicies"
         ],
@@ -901,6 +919,7 @@
         }
       },
       "get": {
+        "deprecated": true,
         "tags": [
           "AccessPolicies"
         ],
@@ -944,6 +963,7 @@
         }
       },
       "patch": {
+        "deprecated": true,
         "tags": [
           "AccessPolicies"
         ],
@@ -996,6 +1016,7 @@
         }
       },
       "delete": {
+        "deprecated": true,
         "tags": [
           "AccessPolicies"
         ],
@@ -1041,6 +1062,7 @@
     },
     "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.TimeSeriesInsights/environments/{environmentName}/accessPolicies": {
       "get": {
+        "deprecated": true,
         "tags": [
           "AccessPolicies"
         ],

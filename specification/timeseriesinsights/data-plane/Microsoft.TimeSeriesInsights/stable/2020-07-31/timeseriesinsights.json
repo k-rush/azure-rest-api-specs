@@ -45,6 +45,7 @@
   "paths": {
     "/availability": {
       "get": {
+        "deprecated": true,
         "tags": [
           "Query"
         ],
@@ -110,6 +111,7 @@
     },
     "/eventSchema": {
       "post": {
+        "deprecated": true,
         "tags": [
           "Query"
         ],
@@ -184,6 +186,7 @@
     },
     "/timeseries/modelSettings": {
       "get": {
+        "deprecated": true,
         "tags": [
           "ModelSettings"
         ],
@@ -235,6 +238,7 @@
         }
       },
       "patch": {
+        "deprecated": true,
         "tags": [
           "ModelSettings"
         ],
@@ -297,6 +301,7 @@
     },
     "/timeseries/query": {
       "post": {
+        "deprecated": true,
         "tags": [
           "Query"
         ],
@@ -461,6 +466,7 @@
     },
     "/timeseries/instances": {
       "get": {
+        "deprecated": true,
         "tags": [
           "TimeSeriesInstances"
         ],
@@ -523,6 +529,7 @@
     },
     "/timeseries/instances/$batch": {
       "post": {
+        "deprecated": true,
         "tags": [
           "TimeSeriesInstances"
         ],
@@ -600,6 +607,7 @@
     },
     "/timeseries/instances/suggest": {
       "post": {
+        "deprecated": true,
         "tags": [
           "TimeSeriesInstances"
         ],
@@ -662,6 +670,7 @@
     },
     "/timeseries/instances/search": {
       "post": {
+        "deprecated": true,
         "tags": [
           "TimeSeriesInstances"
         ],
@@ -748,6 +757,7 @@
     },
     "/timeseries/types": {
       "get": {
+        "deprecated": true,
         "tags": [
           "TimeSeriesTypes"
         ],
@@ -810,6 +820,7 @@
     },
     "/timeseries/types/$batch": {
       "post": {
+        "deprecated": true,
         "tags": [
           "TimeSeriesTypes"
         ],
@@ -884,6 +895,7 @@
     },
     "/timeseries/hierarchies": {
       "get": {
+        "deprecated": true,
         "tags": [
           "TimeSeriesHierarchies"
         ],
@@ -946,6 +958,7 @@
     },
     "/timeseries/hierarchies/$batch": {
       "post": {
+        "deprecated": true,
         "tags": [
           "TimeSeriesHierarchies"
         ],
